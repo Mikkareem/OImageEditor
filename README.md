@@ -22,4 +22,8 @@ Image Editor Application for Android using Jetpack Compose
 5) Gesture Management of Cropper Box
 6) Permissions Handling etc.,
 
+## Demo
+
+https://github.com/Mikkareem/OImageEditor/assets/56153409/da9291b4-6640-4313-8ff2-b97b57ad4166
+
 
