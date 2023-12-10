@@ -6,8 +6,7 @@ Image Editor Application for Android using Jetpack Compose
 1) **Image Cropping**
       1) Selecting an image from User's Phone
       2) Recenter/Resize the Cropper Box to get the desired output image.
-      3) Once you hit **Crop Now**
-      4) App will crop the specified portion, and show it for Save.
+      3) Once you hit **Crop Now**, App will crop the specified portion, and show it for Save.
       5) Once you click **Save**, It will save to the Shared Storage of the User's Phone.
 
 2) **Image Filters(Future update)**
